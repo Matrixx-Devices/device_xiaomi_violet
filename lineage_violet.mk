@@ -19,7 +19,7 @@ MATRIXX_MAINTAINER := Aryan
 MATRIXX_CHIPSET := SM6150
 MATRIXX_BATTERY := 4000mAh
 MATRIXX_DISPLAY := 1080x2340
-WITH_GMS := false
+WITH_GMS := true
 
 # Device identifier. This must come after all inclusions.
 PRODUCT_NAME := lineage_violet
