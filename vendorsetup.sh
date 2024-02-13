@@ -10,3 +10,7 @@ git clone --depth=1 https://gitlab.com/crdroidandroid/android_vendor_miuicamera 
 
 # Cloning prebuilt Clang repository
 git clone --depth=1 https://gitlab.com/crdroidandroid/android_prebuilts_clang_host_linux-x86_clang-r510928.git -b 14.0 prebuilts/clang/host/linux-x86/clang-r510928
+
+# Build Commmands
+lunch lineage_violet-user
+m bacon
